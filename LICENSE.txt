@@ -1,4 +1,17 @@
-GNU GENERAL PUBLIC LICENSE
+GPL V3와 자체 라이선스를 적용합니다.
+자체 라이선스
+1. 커밋 기록까지 포함시켜 배포•복사•전재 할 것
+2. 커밋 기록에는 기여자의 ID가 나올 것
+3. 자신이 기여하지 않았을 경우 자신을 기여자로 표기하지 말 것
+
+We apply GPL V3 and our own license
+own license
+1. Distribution, copying, and reprinting including commit records
+2. The commit record should show the contributor's ID.
+3. Do not mark yourself as a contributor if you have not contributed.
+
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
